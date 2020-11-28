@@ -3,3 +3,10 @@ title: [The title of your site]
 description: [A short description of your site's purpose]
 logo: vmulholl.github.io/img/icon_digitilization.png
 show_downloads: "false"
+
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"

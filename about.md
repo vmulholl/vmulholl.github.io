@@ -1,1 +1,7 @@
-I'm a cat in a hat
+---
+layout: default
+title: About
+---
+# About page
+
+This page tells you a little bit about me.

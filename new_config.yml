@@ -111,14 +111,12 @@ content:
     content:
       - layout: left
         title: Stellenbosch University
-        caption: 2016 - 2018
-        sub_title: BCom Investment management
+        caption: 2019
+        sub_title: BComHons Financial Economics
         quote: >
           Amongst South Africa's leading tertiary institutions based on research output, student pass rates and rated scientists, and is recognised internationally as an academic institution of excellence.
         description: | # this will include new lines to allow paragraphs
-          Apart from majoring in investment management and covering both levels 1 and 2 of the CFA Institute’s curriculum, my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and writing professional academic essays to learning various programming languages and analyzing data.
-
-          ENTER SOME EXTRACURRICULARS HERE.
+          During my post graduate year, majoring in financial economics, at Stellenbosch University,I learned how to work effectively under pressure and manage deadlines. This year furthermore helped me developping my public speaking abilities, working in small group environments and develop successful research methodologies. My Honours thesis, titled “Investment in the Esports Industry - A Critical Analysis” and supervised by Dr. M. Lamont, exposed me to equity analysis and portfolio construction.
       - layout: left
         title: Stellenbosch University
         caption: 2016 - 2018

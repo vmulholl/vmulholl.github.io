@@ -145,6 +145,7 @@ content:
       
       Look at this cool image of my bro
 
+      <div style="text-align:center"><img src="images/coolbro.jpg" /></div>
       ![CoolBro](images/coolbro.jpg)
 
 # Footer

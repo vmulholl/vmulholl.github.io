@@ -115,7 +115,9 @@ content:
         quote: >
           Amongst South Africa's leading tertiary institutions based on research output, student pass rates and rated scientists, and is recognised internationally as an academic institution of excellence.
         description: | # this will include new lines to allow paragraphs
-          Apart from majoring in investment management and covering both levels 1 and 2 of the CFA Institute’s curriculum, my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and writing professional academic essays to learning various programming languages and analyzing data. ENTER SOME EXTRACURRICULARS HERE.
+          Apart from majoring in investment management and covering both levels 1 and 2 of the CFA Institute’s curriculum, my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and writing professional academic essays to learning various programming languages and analyzing data.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text

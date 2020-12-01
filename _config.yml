@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+  Tech Stack: MS (PowerPoint, Excel, Word), Bloomberg Terminal, Statista, Stata, Python, R
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -128,9 +130,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           Covered both levels 1 and 2 of the CFA Insitute's curriculum
           
-          Advanced competencies in the basic Microsoft suite (Excel, Word, etc.)
+          Advanced competencies in the basic Microsoft suite (PowerPoint, Excel, Word, etc.)
           
-          Fondations in various analytical programming languages (R, S___)
+          Fondations in various analytical programming languages (R, Stata, Statista)
           
           Worked with several public datasets and produced numerous professional academic essays
 

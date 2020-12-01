@@ -115,7 +115,10 @@ content:
         quote: >
           Amongst South Africa's leading tertiary institutions based on research output, student pass rates and rated scientists, and is recognised internationally as an academic institution of excellence.
         description: | # this will include new lines to allow paragraphs
-          my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and wri
+          Covered both levels 1 and 2 of the CFA Insitute's curriculum
+          Advanced competencies in the basic Microsoft suite (Excel, Word, etc.)
+          Fondations in various analytical programming languages (R, S___)
+          Worked with several public datasets and produced numerous professional academic essays
 
   - title: A Little More About Me
     layout: text

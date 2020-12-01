@@ -117,24 +117,22 @@ content:
         quote: >
           Amongst South Africa's leading tertiary institutions based on research output, student pass rates and rated scientists, and is recognised internationally as an academic institution of excellence.
         description: | # this will include new lines to allow paragraphs
-          Worked under pressure, managed deadlines and developped public speaking abilities
-
-          Contributed effectively to team work environments while deelopping successful research methodologies
-
-          Produced an Honours thesis, titled "Investment in the Esports Industry - A Critical Analysis" and supervised by Dr. M. Lamont, that exposed me to equity analysis and portfolio construction.
+          * Worked under pressure, managed deadlines and developped public speaking abilities
+          * Contributed effectively to team work environments while deelopping successful research methodologies
+          * Produced an Honours thesis, titled "Investment in the Esports Industry - A Critical Analysis" and supervised by Dr. M. Lamont, that exposed me to equity analysis and portfolio construction.
 
       - layout: left
         title: Stellenbosch University
         caption: 2016 - 2018
         sub_title: BCom Investment management
         description: | # this will include new lines to allow paragraphs
-          Covered both levels 1 and 2 of the CFA Insitute's curriculum
+          * Covered both levels 1 and 2 of the CFA Insitute's curriculum
           
-          Advanced competencies in the basic Microsoft suite (PowerPoint, Excel, Word, etc.)
+          * Advanced competencies in the basic Microsoft suite (PowerPoint, Excel, Word, etc.)
           
-          Fondations in various analytical programming languages (R, Stata, Statista)
+          * Fondations in various analytical programming languages (R, Stata, Statista)
           
-          Worked with several public datasets and produced numerous professional academic essays
+          * Worked with several public datasets and produced numerous professional academic essays
 
   - title: A Little More About Me
     layout: text

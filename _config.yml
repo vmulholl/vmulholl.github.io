@@ -115,21 +115,19 @@ content:
         quote: >
           Amongst South Africa's leading tertiary institutions based on research output, student pass rates and rated scientists, and is recognised internationally as an academic institution of excellence.
         description: | # this will include new lines to allow paragraphs
-          Apart from majoring in investment management and covering both levels 1 and 2 of the CFA Institute’s curriculum, my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and writing professional academic essays to learning various programming languages and analyzing data.
-
-          ENTER SOME EXTRACURRICULARS HERE.
+          Apart from majoring in investment management and covering both levels 1 and 2 of the CFA Institute’s curriculum, my undergraduate years at Stellenbosch University taught me valuable skills to use once I graduated. From learning to use Microsoft Excel effectively and writing professional academic essays to learning various programming languages and analyzing data. ENTER SOME EXTRACURRICULARS HERE.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+      Alongside my interests in equity management and technology:
+      - Surfing
+      - Bros
       - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Kayaking with my cool brother in the ocean
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image of my bro
+      ![CoolBro](images/coolbro.jpg "Trees")
 
 # Footer
 footer_show_references: true
